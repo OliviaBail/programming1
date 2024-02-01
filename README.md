@@ -24,4 +24,4 @@ OOP Graphics game spotlighting objects for user ineraction that includes sound a
 ![Timeline](https://github.com/OliviaBail/programming1/blob/main/images/Timeline.png?raw=true)
 
 ### EtchASketch
-![Convert](https://github.com/OliviaBail/programming1/blob/main/images/Convert.png?raw=true)
+![EtchASketch](https://github.com/OliviaBail/programming1/blob/main/images/EtchASketch.png?raw=true)
